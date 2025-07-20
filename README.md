@@ -1,1 +1,2 @@
 Sign Language Interpreter using computer vision and machine learning to recognize hand gestures and convert them into text. The system currently supports the American Sign Language (ASL) alphabet and numerals (A–Z, 0–9), enabling basic communication for the specially-abled.
+<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/175382ae-123a-4f8e-963a-da7337f6619b" />
